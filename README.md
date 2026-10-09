@@ -2,9 +2,6 @@
 
 Built for the **First Commit** hackathon (Kamand Prompt, IIT Mandi). Zephyr is a campus-first chat app: every student lands in six campus rooms, can DM anyone, build groups, and study together with shared focus timers.
 
-## Branding
-Put the official IIT Mandi logo at `public/img/iit-mandi-logo.png`. Without it the landing page shows a text badge. Use the light/dark toggle (top right) to switch themes.
-
 ## Features
 
 **Mandatory core**
